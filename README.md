@@ -30,7 +30,7 @@ Para compilar e rodar o código, é necessário instalar:
 4. Envie o arquivo .uf2 para a placa via USB.
 
 ## Espaço para Demonstração em Vídeo
-*(Insira aqui um link ou arquivo de vídeo demonstrativo do projeto em funcionamento.)*
+*https://youtu.be/sH9JOxKk1fg*
 
 ## Autor
 *Victor Gabriel Guimarães Lopes*
